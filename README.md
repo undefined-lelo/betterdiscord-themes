@@ -8,3 +8,5 @@ These are just a bunch of random themes I've created for **BetterDiscord**. All 
 <a href="/demon-slayer/tanjiro" target="_blank">**Demon Slayer ft. Tanjiro**</a>
 
 <a href="/demon-slayer/tanjiro" target="_blank"> ![Demon Slayer Tanjiro](https://github.com/user-attachments/assets/082c0799-b724-4b7f-aecc-90352ca8dbde)</a>
+
+##### ⚠️ All themes require [BetterDiscord](https://betterdiscord.app) to be installed.
